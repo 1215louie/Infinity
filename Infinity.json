@@ -1,5 +1,4 @@
-{
-  "id": "Infinity",
+{ "id": "Infinity",
   "time": "2014-09-02T01:24:35-07:00",
   "releaseTime": "2014-09-02T01:24:35-07:00",
   "type": "release",
@@ -243,5 +242,4 @@
   ],
   "mainClass": "net.minecraft.client.main.Main",
   "minimumLauncherVersion": 14,
-  "assets": "1.8"
-}
+  "assets": "1.8"}
